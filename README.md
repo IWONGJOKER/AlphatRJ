@@ -1,2 +1,0 @@
-# AlphatRJ
-BotAlphatRJ
